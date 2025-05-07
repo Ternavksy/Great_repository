@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/larisa/Documents/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/larisa/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/larisa/Documents/GitHub/Great_repository/mobile/bwe_sound/android/app/.cxx/Debug/4w2e4k5q/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/larisa/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/larisa/Documents/GitHub/Great_repository/mobile/bwe_sound/android/app/.cxx/Debug/4w2e4k5q/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

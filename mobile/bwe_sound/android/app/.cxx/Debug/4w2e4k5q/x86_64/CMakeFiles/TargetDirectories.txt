@@ -1,0 +1,2 @@
+/Users/larisa/Documents/GitHub/Great_repository/mobile/bwe_sound/android/app/.cxx/Debug/4w2e4k5q/x86_64/CMakeFiles/edit_cache.dir
+/Users/larisa/Documents/GitHub/Great_repository/mobile/bwe_sound/android/app/.cxx/Debug/4w2e4k5q/x86_64/CMakeFiles/rebuild_cache.dir
